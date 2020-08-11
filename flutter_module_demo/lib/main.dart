@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 
-void main() => runApp(IosAPp());
+void main() => runApp(IosApp());
 
-class IosAPp extends StatelessWidget {
+class IosApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
